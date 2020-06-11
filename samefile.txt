@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is sulthan
+=======
+This is puneeth
+>>>>>>> 0bbec46b40a4ae10f7217dbdd1c74d43972ddbb9
