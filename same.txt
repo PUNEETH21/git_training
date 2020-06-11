@@ -1,10 +1,10 @@
-puneeth one
 <<<<<<< HEAD
 sulthan
 sutthan babu 1
 =======
 <<<<<<< HEAD
 puneeth
+puneeth one
 =======
 sulthan
 >>>>>>> f97ce78b52fcd58e1ff8f68b710541de1239982c
